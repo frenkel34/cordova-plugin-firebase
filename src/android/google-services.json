@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "932120112326",
+    "firebase_url": "https://booons-0-5-4.firebaseio.com",
+    "project_id": "booons-0-5-4",
+    "storage_bucket": "booons-0-5-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932120112326:android:9949780b2d17c266",
+        "android_client_info": {
+          "package_name": "com.booons.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932120112326-2gcsqq6pvc8bgovh66p5f9isfbpu0pf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEu8keWX3A3Ip5Jch_4fisG5MzZjc556A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
